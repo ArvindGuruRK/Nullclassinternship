@@ -53,3 +53,5 @@ For my internship tasks related to the **Emotion Detection** project, Task 1 foc
 ![Screenshot 2024-12-27 094450](https://github.com/user-attachments/assets/0c2449d3-e4d8-49ea-960d-cae939da22f4)
 
 ![Screenshot 2024-12-27 094052](https://github.com/user-attachments/assets/e313910b-bf52-4677-abeb-dd4a57bca691)
+
+![Screenshot 2024-12-27 093904](https://github.com/user-attachments/assets/9e2a6d8b-d532-4304-9d7f-a3ff256a2839)
