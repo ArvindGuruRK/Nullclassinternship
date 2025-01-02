@@ -12,7 +12,6 @@ The primary goal of this project was to create a system that can classify emotio
 Through this project, I built an emotion detection model capable of accurately analyzing input data and classifying emotions. The project involved:
 - **Data Processing:** Cleaning and organizing the dataset to ensure optimal model performance.
 - **Feature Engineering:** Extracting relevant features that effectively represent emotional patterns.
-- **Algorithm Implementation:** Implementing and comparing various machine learning algorithms such as Support Vector Machines (SVM), Decision Trees, Random Forest, and Logistic Regression.
 - **Model Evaluation:** Using performance metrics like accuracy, precision, and recall to evaluate the models and select the best-performing algorithm.
 
 #### **Outcomes:**
