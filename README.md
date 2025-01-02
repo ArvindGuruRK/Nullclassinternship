@@ -147,3 +147,7 @@ The deep learning model was built using the **Keras Sequential API** with the fo
 This project successfully implemented a system for emotion detection through voice. It demonstrated the potential of audio-based emotion recognition using deep learning, achieving robust results through effective data processing and augmentation. Future improvements could include:
 - Extending support for male voices.
 - Enhancing model accuracy with additional datasets and advanced techniques.
+
+![Screenshot 2025-01-02 092155](https://github.com/user-attachments/assets/32500ccb-f4de-4c93-9013-ec04abf09ad4)
+
+![Screenshot 2025-01-02 092139](https://github.com/user-attachments/assets/79dbd786-ea5c-46c2-86a9-496f00825d4a)
